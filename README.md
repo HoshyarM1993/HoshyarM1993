@@ -1,79 +1,121 @@
-# Hi, I'm Hoshyar 👋
+<div align="center">
 
-### Trader • Programmer • Computer Enthusiast
+# Hoshyar
 
-I’m a trader in the financial markets with a deep passion for computers, programming, and technology.
+### Trader in Financial Markets · Programmer · Computer Enthusiast
 
-Most of the software and coding projects I work on are connected in some way to financial markets, data, analysis, research, automation, and practical tools.
+**Markets × Technology × Programming × Continuous Learning**
 
-I’m interested in understanding how things actually work — then turning that understanding into useful, testable systems.
+</div>
 
 ---
 
-## 🧠 What I’m Into
+## 👋 About Me
 
-- 📈 **Financial Markets** — market structure, price behavior, research, and trading
-- 💻 **Programming & Computers** — building software, automating workflows, and solving technical problems
-- 📊 **Data & Analysis** — turning raw information into something useful and verifiable
-- 🤖 **Automation & AI** — using technology as a tool for research, productivity, and decision support
-- 🔍 **Learning** — continuously exploring new concepts, technologies, and better ways to build things
+I’m a trader in the financial markets with a deep passion for computers, programming, and technology.
 
-## 🛠️ What I Build
+Most of the projects and experiments I work on are connected to **financial markets, data, analysis, research, automation, and practical software tools**.
 
-My projects are mainly focused on practical problems around:
+I enjoy taking a difficult problem apart, understanding how it actually works, and then building something useful around that understanding.
 
-**Financial Markets · Data · Analysis · Research · Automation · Software Tools**
+I’m not interested in pretending to know everything.
 
-Some projects are experimental, some are long-term builds, and some exist simply because I wanted to understand how something works.
+I’m interested in **learning, building, testing, improving, and going deeper**.
 
-## 🚀 Current Direction
+---
 
-I’m working toward becoming better at both sides of the equation:
+## 📈 Financial Markets
 
-**Understanding markets deeply**  
-and  
-**building better technology around them.**
+Trading is one of the main areas that drives my technical work.
 
-That means learning by doing, testing ideas, studying failures, and improving systems over time.
+My interests include:
 
-## 📚 Continuous Learning
+- Market analysis and research
+- Price behavior and market structure
+- Data-driven workflows
+- Research and decision-support tools
+- Automation around repetitive market tasks
 
-I’m constantly learning and experimenting.
+The goal is not to make technology look impressive.
 
-I don’t expect to know everything. I care more about understanding difficult problems properly and improving my ability to solve them.
+The goal is to make it **useful, testable, and grounded in reality**.
 
-I tend to stay with difficult problems for a long time — especially when I believe there is something important to learn from them.
+---
+
+## 💻 Computers & Programming
+
+I’ve always had a strong interest in computers and how software works.
+
+Programming is one of the ways I turn that curiosity into something practical:
+
+**Idea → Code → Test → Break → Fix → Improve**
+
+Most of what I build is connected, directly or indirectly, to problems I encounter in financial markets and research.
+
+---
+
+## 🧠 What I’m Learning
+
+I’m continuously exploring:
+
+**Programming · Data · Automation · Software Architecture · AI-assisted Development · Market Research · Analytical Systems**
+
+I learn primarily by building real things and dealing with the problems that appear along the way.
+
+---
 
 ## 🔬 My Approach
 
 I value:
 
-- **Evidence over assumptions**
-- **Understanding over memorization**
-- **Practical systems over empty complexity**
-- **Iteration over perfection**
-- **Long-term improvement over short-term appearance**
+> **Evidence over assumptions**  
+> **Understanding over memorization**  
+> **Useful systems over unnecessary complexity**  
+> **Testing over guessing**  
+> **Iteration over perfection**  
+> **Long-term improvement over short-term appearance**
 
 ---
 
-### ⚡ A little about me
+## 🚀 What I’m Building
 
-Markets got me into computers.  
-Computers got me deeper into programming.  
-Programming keeps pushing me to understand more.
+My GitHub is a workspace for projects, experiments, research tools, and software related mainly to financial markets and technology.
 
-And I’m still building.
+Some projects are long-term builds.
 
----
+Some are experiments.
 
-## 📌 GitHub
+Some start simply because I want to understand how something works.
 
-Most of my work is centered around financial markets and the technology that can be built around them.
+Not everything needs to become a product.
 
-More projects, experiments, and tools will appear here as they become ready to share.
+Everything should teach me something.
 
 ---
 
-<p align="center">
-  <i>Learn • Build • Test • Improve • Repeat</i>
-</p>
+## ⚡ A Little About Me
+
+**Markets got me deeper into computers.**  
+**Computers got me deeper into programming.**  
+**Programming keeps pushing me to understand more.**
+
+And when a problem is difficult, I usually stay with it longer than I probably should.
+
+---
+
+## 📌 Current Direction
+
+I’m working toward becoming stronger on both sides:
+
+### Understand markets more deeply.
+### Build better technology around them.
+
+That means continuous learning, practical experimentation, honest testing, and improving one system at a time.
+
+---
+
+<div align="center">
+
+### Learn · Build · Test · Improve · Repeat
+
+</div>
