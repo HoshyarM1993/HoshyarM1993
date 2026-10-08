@@ -4,108 +4,87 @@
 
 ### Trader in Financial Markets · Programmer · Computer Enthusiast
 
-**Markets × Technology × Programming × Continuous Learning**
+**Financial Markets × Technology × Programming**
 
 </div>
 
 ---
 
-## About Me
+## > whoami
 
-I’m a trader in the financial markets with a deep passion for computers, programming, and technology.
+```text
+Trader focused on financial markets,
+with a deep passion for computers, programming, and technology.
 
-Most of the projects I work on are connected to **financial markets, market research, data, analysis, automation, and practical software tools**.
+I build and experiment with software around markets,
+data, research, analysis, automation, and decision-support.
 
-I like taking difficult problems apart, understanding how they actually work, and turning that understanding into something useful and testable.
+I learn by building real things, testing ideas,
+studying failures, and improving the system.
+```
 
-I’m still learning, still experimenting, and still building.
+## 🎯 Focus
 
----
+**Financial Markets · Market Research · Data · Analysis · Automation · Software Tools**
 
-## 📈 Financial Markets
+Trading is what pulled me deeper into computers.
 
-Trading is one of the main forces behind my technical work.
+Computers pulled me deeper into programming.
 
-I’m interested in:
-
-- Market analysis and research
-- Price behavior and market structure
-- Data-driven workflows
-- Research and decision-support systems
-- Automation around repetitive market tasks
-
-I care about separating **what is known, what is assumed, and what can actually be tested**.
+Programming keeps pushing me to understand more.
 
 ---
 
-## 💻 Computers & Programming
+## 🛠️ Working With
 
-I’ve always been fascinated by computers and how software works.
+**Python · SQLite · Git · GitHub Actions · Windows · MetaTrader 5**
 
-Programming gives me a way to turn that curiosity into practical systems:
-
-**Idea → Code → Test → Break → Fix → Improve**
-
-Most of my coding work is connected directly or indirectly to problems I encounter in financial markets and research.
+I use technology to solve practical problems around financial markets and research.
 
 ---
 
-## 🛠️ Tech & Tools
-
-My current work involves:
-
-**Python · SQLite · Git · GitHub Actions · Windows · MetaTrader 5 · Data Analysis · Market Research · Automation**
-
-I use technology as a means to solve problems, not as a collection of technologies to display.
-
----
-
-## 🧠 Continuous Learning
-
-I’m constantly learning and exploring new concepts, tools, and ways of building things.
-
-I don’t expect to know everything.
-
-I care about understanding difficult problems properly, learning from mistakes, and becoming better through real work.
-
-When something is difficult, I tend to stay with it for a long time until I understand it or find a better way forward.
-
----
-
-## 🔬 My Approach
+## 🧠 What I Care About
 
 > **Evidence over assumptions**  
-> **Understanding over memorization**  
 > **Testing over guessing**  
+> **Understanding over memorization**  
 > **Useful systems over unnecessary complexity**  
-> **Iteration over perfection**  
-> **Long-term improvement over short-term appearance**
+> **Continuous improvement over short-term appearance**
+
+---
+
+## 🔬 How I Learn
+
+I’m constantly learning, experimenting, and going deeper.
+
+I don’t need to know everything before I start.
+
+I prefer:
+
+**Build → Test → Break → Understand → Fix → Improve**
+
+When a problem is difficult, I tend to stay with it.
 
 ---
 
 ## 🚀 What I Build
 
-This GitHub is my workspace for:
+My GitHub is a workspace for:
 
-**Financial Market Tools · Research Systems · Data & Analysis · Automation · Software Experiments**
+**Market Tools · Research Systems · Data & Analysis · Automation · Software Experiments**
 
-Some projects are long-term builds.  
-Some are experiments.  
-Some exist simply because I wanted to understand how something works.
+Some work stays private while it is being developed.
 
-Not everything needs to become a product.
-
-Everything should teach me something.
+When a project is ready to be shared, it will appear here.
 
 ---
 
-## ⚡ A Little About Me
+## 📚 Current Direction
 
-**Markets got me deeper into computers.**  
-**Computers got me deeper into programming.**  
-**Programming keeps pushing me to understand more.**
+I’m working on becoming stronger at both sides of the same problem:
 
-And when I decide that something is worth understanding or building, I usually keep going.
+### Understand markets more deeply.
+### Build better technology around them.
 
 ---
 
