@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hoshyar
+# Hoshyar 👋
 
 ### Trader in Financial Markets · Programmer · Computer Enthusiast
 
@@ -10,82 +10,88 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m a trader in the financial markets with a deep passion for computers, programming, and technology.
 
-Most of the projects and experiments I work on are connected to **financial markets, data, analysis, research, automation, and practical software tools**.
+Most of the projects I work on are connected to **financial markets, market research, data, analysis, automation, and practical software tools**.
 
-I enjoy taking a difficult problem apart, understanding how it actually works, and then building something useful around that understanding.
+I like taking difficult problems apart, understanding how they actually work, and turning that understanding into something useful and testable.
 
-I’m not interested in pretending to know everything.
-
-I’m interested in **learning, building, testing, improving, and going deeper**.
+I’m still learning, still experimenting, and still building.
 
 ---
 
 ## 📈 Financial Markets
 
-Trading is one of the main areas that drives my technical work.
+Trading is one of the main forces behind my technical work.
 
-My interests include:
+I’m interested in:
 
 - Market analysis and research
 - Price behavior and market structure
 - Data-driven workflows
-- Research and decision-support tools
+- Research and decision-support systems
 - Automation around repetitive market tasks
 
-The goal is not to make technology look impressive.
-
-The goal is to make it **useful, testable, and grounded in reality**.
+I care about separating **what is known, what is assumed, and what can actually be tested**.
 
 ---
 
 ## 💻 Computers & Programming
 
-I’ve always had a strong interest in computers and how software works.
+I’ve always been fascinated by computers and how software works.
 
-Programming is one of the ways I turn that curiosity into something practical:
+Programming gives me a way to turn that curiosity into practical systems:
 
 **Idea → Code → Test → Break → Fix → Improve**
 
-Most of what I build is connected, directly or indirectly, to problems I encounter in financial markets and research.
+Most of my coding work is connected directly or indirectly to problems I encounter in financial markets and research.
 
 ---
 
-## 🧠 What I’m Learning
+## 🛠️ Tech & Tools
 
-I’m continuously exploring:
+My current work involves:
 
-**Programming · Data · Automation · Software Architecture · AI-assisted Development · Market Research · Analytical Systems**
+**Python · SQLite · Git · GitHub Actions · Windows · MetaTrader 5 · Data Analysis · Market Research · Automation**
 
-I learn primarily by building real things and dealing with the problems that appear along the way.
+I use technology as a means to solve problems, not as a collection of technologies to display.
+
+---
+
+## 🧠 Continuous Learning
+
+I’m constantly learning and exploring new concepts, tools, and ways of building things.
+
+I don’t expect to know everything.
+
+I care about understanding difficult problems properly, learning from mistakes, and becoming better through real work.
+
+When something is difficult, I tend to stay with it for a long time until I understand it or find a better way forward.
 
 ---
 
 ## 🔬 My Approach
 
-I value:
-
 > **Evidence over assumptions**  
 > **Understanding over memorization**  
-> **Useful systems over unnecessary complexity**  
 > **Testing over guessing**  
+> **Useful systems over unnecessary complexity**  
 > **Iteration over perfection**  
 > **Long-term improvement over short-term appearance**
 
 ---
 
-## 🚀 What I’m Building
+## 🚀 What I Build
 
-My GitHub is a workspace for projects, experiments, research tools, and software related mainly to financial markets and technology.
+This GitHub is my workspace for:
 
-Some projects are long-term builds.
+**Financial Market Tools · Research Systems · Data & Analysis · Automation · Software Experiments**
 
-Some are experiments.
-
-Some start simply because I want to understand how something works.
+Some projects are long-term builds.  
+Some are experiments.  
+Some exist simply because I wanted to understand how something works.
 
 Not everything needs to become a product.
 
@@ -99,18 +105,7 @@ Everything should teach me something.
 **Computers got me deeper into programming.**  
 **Programming keeps pushing me to understand more.**
 
-And when a problem is difficult, I usually stay with it longer than I probably should.
-
----
-
-## 📌 Current Direction
-
-I’m working toward becoming stronger on both sides:
-
-### Understand markets more deeply.
-### Build better technology around them.
-
-That means continuous learning, practical experimentation, honest testing, and improving one system at a time.
+And when I decide that something is worth understanding or building, I usually keep going.
 
 ---
 
